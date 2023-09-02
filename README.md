@@ -1,2 +1,2 @@
 # startup-of-the-year
-Landing page for startup
+https://brooksingit.github.io/startup-of-the-year/
